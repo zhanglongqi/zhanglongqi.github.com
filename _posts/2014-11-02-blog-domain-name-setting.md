@@ -15,7 +15,8 @@ Create  a CNAME record to your `USERNAME.github.io`, notice the `io` instead of 
 
 After a while, you can verify your setting by `dig` command:
 
-```sh
+```
+
 # longqi at zlq in ~/jekyll/benhuan.github.com on git:master o [23:34:31]
 $ dig blog.longqi.pro +nostats +nocomments +nocmd           
 
@@ -31,16 +32,19 @@ github.map.fastly.net.	18	IN	A	103.245.222.133
 
 Create a `CNAME` file in your `USERNAME.github.com` repository:
 
-```sh
+```
 # longqi at zlq in ~/jekyll/benhuan.github.com on git:master x [23:35:28]
+
 $ vim CNAME 
 ```
 
 Put your domain name inside:
 
-```sh
+```
 # longqi at zlq in ~/jekyll/benhuan.github.com on git:master x [23:35:28]
+
 $ cat CNAME 
+
 blog.longqi.pro
 ```
 
