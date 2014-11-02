@@ -18,8 +18,6 @@ After a while, you can verify your setting by `dig` command:
 ```
 $ dig blog.longqi.pro +nostats +nocomments +nocmd           
 
-; <<>> DiG 9.9.5-3-Ubuntu <<>> blog.longqi.pro +nostats +nocomments +nocmd
-;; global options: +cmd
 ;blog.longqi.pro.		IN	A
 blog.longqi.pro.	29	IN	CNAME	benhuan.github.io.
 benhuan.github.io.	2750	IN	CNAME	github.map.fastly.net.
