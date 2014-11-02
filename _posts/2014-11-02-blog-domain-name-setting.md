@@ -16,12 +16,7 @@ Create  a CNAME record to your `USERNAME.github.io`, notice the `io` instead of 
 After a while, you can verify your setting by `dig` command:
 
 ```
-$ dig blog.longqi.pro +nostats +nocomments +nocmd           
-
-;blog.longqi.pro.		IN	A
-blog.longqi.pro.	29	IN	CNAME	benhuan.github.io.
-benhuan.github.io.	2750	IN	CNAME	github.map.fastly.net.
-github.map.fastly.net.	18	IN	A	103.245.222.133
+$ dig blog.longqi.pro +nostats +nocomments +nocmd  
 ```
 
 ##2. bind your domain name to your blog
@@ -31,7 +26,9 @@ Create a `CNAME` file in your `USERNAME.github.com` repository:
 ```
 $ vim CNAME 
 ```
+
 Put your domain name inside:
+
 
 ```
 $ cat CNAME 
