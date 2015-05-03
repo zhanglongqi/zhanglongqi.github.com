@@ -81,8 +81,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : zhanglongqi
-      short_name : jekyllbootstrap
+    disqus :
+      short_name : zhanglongqi
     livefyre :
       site_id : 123
     intensedebate :
