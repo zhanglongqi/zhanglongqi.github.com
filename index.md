@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: about
 ---
 {% include JB/setup %}
 
+Zhang LongQi
 
-### posts list
+I am working in [Energy Research Institute](http://erian.ntu.edu.sg) of [Nanyang Technological University](http://www.ntu.edu.sg).
+
+### Posts list
 
 <ul class="posts">
   {% for post in site.posts %}
