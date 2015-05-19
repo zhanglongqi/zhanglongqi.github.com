@@ -8,11 +8,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : LQ
+title : Sharing my knowledge with you
 tagline: Zhang LongQi
 author :
   name : Zhang LongQi
-  email : longqi90@gmail.com
+  email : longqi90 [A] gmail [DOT] com
   github : zhanglongqi
   twitter : zhang_longqi
   feedburner : feedname
