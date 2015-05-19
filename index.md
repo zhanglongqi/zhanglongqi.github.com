@@ -16,6 +16,3 @@ I am working in [Energy Research Institute](http://erian.ntu.edu.sg) of [Nanyang
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
