@@ -696,7 +696,7 @@ pre {
     vertical-align: middle;
   }
   .the-header .nav-global li:last-child {
-    margin-right: 0;
+    margin-right: 20;
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
@@ -753,7 +753,7 @@ pre {
   }
 }
 /*
-	Not that old computer layout 
+	Not that old computer layout
 */
 @media only screen and (min-width: 1280px) {
   .the-header .unit-inner {
@@ -799,7 +799,7 @@ pre {
   }
 }
 /*
-	Huge-screen layout 
+	Huge-screen layout
 */
 @media only screen and (min-width: 1410px) {
   .the-header .unit-inner {
