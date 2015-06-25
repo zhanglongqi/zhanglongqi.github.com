@@ -691,12 +691,15 @@ pre {
     zoom: 1;
     line-height: normal;
     letter-spacing: normal;
-    margin-right: 16px;
+    margin-right: 20px;
     word-spacing: normal;
     vertical-align: middle;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
   }
   .the-header .nav-global li:hover {
-    height: inherit + 10px;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.2);
   }
   .the-header .nav-global li:last-child {
     margin-right: 20;
