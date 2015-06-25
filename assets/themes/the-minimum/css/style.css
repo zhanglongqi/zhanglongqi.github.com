@@ -688,7 +688,7 @@ pre {
   .the-header .nav-global li {
     display: inline-block;
     *display: inline;
-    zoom: 1;
+    zoom: 1.5;
     line-height: normal;
     letter-spacing: normal;
     margin-right: 16px;
