@@ -688,6 +688,16 @@ pre {
   .the-header .nav-global li {
     display: inline-block;
     *display: inline;
+    zoom: 1;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-right: 16px;
+    word-spacing: normal;
+    vertical-align: middle;
+  }
+  .the-header .nav-global li:hover {
+    display: inline-block;
+    *display: inline;
     zoom: 1.2;
     line-height: normal;
     letter-spacing: normal;
