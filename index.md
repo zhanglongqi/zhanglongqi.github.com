@@ -9,7 +9,7 @@ Zhang LongQi
 
 I am working in [Energy Research Institute](http://erian.ntu.edu.sg) of [Nanyang Technological University](http://www.ntu.edu.sg).
 
-Here is my [CV](http://longqi.pro/cv.html)
+Here is my [CV](http://zhanglongqi.github.io/cv.html)
 
 ### Posts list
 
